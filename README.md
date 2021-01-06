@@ -21,6 +21,11 @@ This is my personal page which i will continuously update to build a portfolio.
 * HTML5
 * CSS3
 
+## Features
+List of features ready and TODOs for future development
+* The page is responsive.
+* Navbar is going to include links and dropdown lists
+
 ## Status
 Project is: _in progress_.
 
