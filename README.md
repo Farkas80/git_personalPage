@@ -13,7 +13,7 @@ Personal Page
 This is my personal page which i will continuously update to build a portfolio.
 
 ## Screenshots
-![Example screenshot](Personal Page.png)
+![Example screenshot](PersonalPage.png)
 
 ## Technologies
 * HTML5
