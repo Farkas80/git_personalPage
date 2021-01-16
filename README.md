@@ -17,7 +17,7 @@ This is my personal page which i will continuously update to build a portfolio.
 Colors and fonts changed.
 
 ## Screenshots
-![Personal page](PersonalPage.png)
+![Personal page](ColorFont.png)
 
 ## Technologies
 * HTML5
