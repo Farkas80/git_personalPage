@@ -3,6 +3,7 @@ Personal Page
 
 ## Table of contents
 * [General info](#general-info)
+* [Changes](#changes)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Features](#features)
@@ -11,6 +12,9 @@ Personal Page
 
 ## General info
 This is my personal page which i will continuously update to build a portfolio.
+
+## Changes
+Colors and fonts changed.
 
 ## Screenshots
 ![Personal page](PersonalPage.png)
