@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-size: 2rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    background-color: #7A8E80;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 1em 0 1em;
+    color: #33442E;
+    font-weight: 700;
+    padding: .25em 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.container-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header {
+    background: #BAC7B8;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+@media (max-width: 675px) {
+    nav ul {
+        flex-direction: column;
+    }
+}
+
+/* image */
+
+.intro {
+    background-image: url(Csaba_Farkas.jpg);
+    padding: 300px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+}
+
+.greeting {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 0.7em;
+    position: absolute;
+    top: 70px;
+    right: 10px;
+    color: rgb(241, 239, 234);
+
+}
+
+
+
+
